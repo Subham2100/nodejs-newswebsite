@@ -8,5 +8,5 @@ $ npm install
 $ npm start
 ```
 ### Website
-[www.raddy.co.uk](https://www.raddy.co.uk)
+https://nodejs-newsapp.herokuapp.com/
 
